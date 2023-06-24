@@ -12,31 +12,51 @@ You work as a data analyst at Terminus, a nationally recognized news agency, whi
 Each row in IPL_BALL_BY_BALL.csv data set contains:
 
 1.Match related information (batting team vs bowling team)
+
 2.Player information (Bowler, Batsman, Non-striker)
+
 3.Delivery information (Runs scored, Wickets, Extras, etc.)
 
 Each row in IPL_MATCHES_DATA.csv data set contains:
+
 1.Match specifics (umpires, ground, etc.)
+
 2.Results (which team won, win type, player of the match, etc.)
 
 # Analysis
 # IPL season wise analysis
+
 1.Title Winner
+
 2.Orange Cap Winner
+
 3.Purple Cap Winner
+
 4.Tournament's 6
+
 5.Tournament's 4
+
 6.Toss Decision vs Match Won 
+
 7.Most Matches at Venue
+
 8.Most Player Of Match 
+
 9.Toss Decision Based Winning %
 
 # Player Statistics
+
 1.Top N Batsman Stats
+
 2.Top N Bowler Stats
+
 3.Batsman Stats
+
 4.Bowler Stats
+
 5.Most Trophy Won Season Wise
+
 6.Most Matches Won Season Wise
+
 
 The dashboards are published at https://public.tableau.com/app/profile/ankur.yadav8578
